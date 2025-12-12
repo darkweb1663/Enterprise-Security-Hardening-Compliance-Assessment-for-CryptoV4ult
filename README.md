@@ -1,0 +1,2 @@
+# Enterprise-Security-Hardening-Compliance-Assessment-for-CryptoV4ult
+A full-scope cybersecurity hardening and compliance assessment for CryptoV4ult, a global cryptocurrency platform. This project demonstrates end-to-end capabilities in Secure SDLC integration, vulnerability assessment, container security, and API security design. Built to meet professional expectations for SOC, DFIR, and security engineering roles.
